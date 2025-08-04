@@ -9,9 +9,9 @@ By weekend (or whenever the wind is right), you'll find me high in the mountains
 
 ## 🛠️ What I do
 
-- 🔧 **Full-Stack Web Development** – TypeScript, React/Next.js, Tailwind, Node.js
+- 🔧 **Full-Stack Web Development** – Java, Ruby, TypeScript, React/Next.js, Tailwind, Node.js
 - 🎨 **UI/UX Implementation** – Clean interfaces with accessibility in mind
-- ☁️ **Deployment & DevOps** – Vercel, Netlify, Docker, GitHub Actions
+- ☁️ **Deployment & DevOps** – Vercel, AWS, Docker, GitHub Actions
 - 🧠 **Problem Solving & Optimization** – From performance audits to backend logic
 - 🪂 **Hike & Fly** – Paragliding pilot with a passion for alpine adventure
 
@@ -20,15 +20,14 @@ By weekend (or whenever the wind is right), you'll find me high in the mountains
 ## 🚀 Projects & Work
 
 I work on a mix of client and personal projects — building tools, apps, and digital experiences that are both useful and enjoyable.  
-Check out some highlights [here](#) or on my portfolio site (coming soon).
+Check out some highlights or on my portfolio site [NExperience](https://nexperience.ch).
 
 ---
 
 ## 🌍 Connect with me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME)
-- 🌐 [Website / Portfolio](https://YOURDOMAIN.com)
-- ✉️ [Email me](mailto:you@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nicola-eschbach)
+- 🌐 [Website / Portfolio](https://nexperience.ch)
 
 ---
 
