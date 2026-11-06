@@ -2,8 +2,8 @@
 
 I'm a passionate software engineer and outdoor enthusiast based in Switzerland 🇨🇭.
 
-By day, I build web applications — crafting clean, scalable code and pixel-perfect interfaces.  
-By weekend (or whenever the wind is right), you'll find me high in the mountains — hiking, flying, and capturing breathtaking moments from the sky.
+By day, I build web applications -> crafting clean, scalable code and pixel-perfect interfaces.  
+By weekend (or whenever the wind is right), you'll find me high in the mountains -> hiking, flying, and capturing breathtaking moments from the sky.
 
 ---
 
@@ -20,14 +20,14 @@ By weekend (or whenever the wind is right), you'll find me high in the mountains
 ## 🚀 Projects & Work
 
 I work on a mix of client and personal projects — building tools, apps, and digital experiences that are both useful and enjoyable.  
-Check out some highlights or on my portfolio site [NExperience](https://nexperience.ch).
+Check out some highlights or on my portfolio site [eschbach.dev](https://eschbach.dev).
 
 ---
 
 ## 🌍 Connect with me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nicola-eschbach)
-- 🌐 [Website / Portfolio](https://nexperience.ch)
+- 🌐 [Website / Portfolio](https://eschbach.dev)
 
 ---
 
